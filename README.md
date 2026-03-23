@@ -130,4 +130,3 @@ SkillAcademy demonstrates a complete **full-stack application** with frontend, b
 
 ---
 
-## 🙏 Thank You
